@@ -6,9 +6,8 @@
 <details>
   <summary>Нажмите, чтобы развернуть</summary>
   <img src="https://github.com/Valentina-LIS/kittygram_final/blob/main/Китиграмм.JPG" alt="Изображение">
+  <img src="https://github.com/Valentina-LIS/kittygram_final/blob/main/Киттиграм.JPG" alt="Изображение">
 </details>
-![Главная](https://github.com/Valentina-LIS/kittygram_final/blob/main/Китиграмм.JPG)
-![Создать пост](https://github.com/Valentina-LIS/kittygram_final/blob/main/Киттиграм.JPG)
 
 ## Запуск проекта
 
