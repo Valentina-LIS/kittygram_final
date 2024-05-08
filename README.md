@@ -6,6 +6,10 @@
 <details>
   <summary>Нажмите, чтобы развернуть</summary>
   <img src="https://github.com/Valentina-LIS/kittygram_final/blob/main/Китиграмм.JPG" alt="Изображение">
+</details>
+
+<details>
+  <summary>Нажмите, чтобы развернуть</summary>
   <img src="https://github.com/Valentina-LIS/kittygram_final/blob/main/Киттиграм.JPG" alt="Изображение">
 </details>
 
